@@ -1,4 +1,4 @@
-console.log("Calculator");
+
 const numberButtons = document.querySelectorAll("#dataNumber");
 const operationButtons = document.querySelectorAll("#dataOperation");
 const equalsButton = document.querySelector("#dataEquals");
