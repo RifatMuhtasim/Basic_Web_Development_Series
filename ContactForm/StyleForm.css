@@ -1,0 +1,36 @@
+*{
+	box-sizing: border-box;
+	margin: 0px;
+}
+.row1 {
+	margin:10px 70px 10px 70px;
+	padding:25px;
+	background-color: #098BAB;
+	border-radius: 15px;
+
+}
+input[type=text], input[type=email], textarea {
+  width: 100%;
+  border: 1px solid #ccc;
+  border-radius: 15px;
+  box-sizing: border-box;
+  margin-top: 6px;
+  margin-bottom: 16px;
+  resize: vertical;
+  padding: 15px;
+}
+
+textarea{
+	height: 300px;
+}
+
+#errormessage{
+	padding-bottom: 10px;
+	padding-left: 3px;
+}
+
+button{
+	height: 40px;
+	width: 150px;
+	border-radius: 15px;
+}
